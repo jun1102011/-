@@ -1,0 +1,10 @@
+{
+  "archive_sources_match": true,
+  "formal_sources_unchanged": true,
+  "configuration_snapshots_match": true,
+  "raw_mat_matches_formal30s_archive": true,
+  "relative_markdown_links_checked": 13,
+  "excluded_cache_redundant_csv_and_program_files": true,
+  "publication_reran_vehicle_simulation": false,
+  "note": "静态归档与字节核验，不代表异机安装/运行通过。"
+}

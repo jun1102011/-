@@ -1,0 +1,40 @@
+{
+  "length": 25,
+  "end": 29.999999999975433,
+  "init_writes": 0,
+  "passed": true,
+  "reason": "native_stop",
+  "error": "",
+  "events": [
+    [
+      2.629999999999988,
+      "start_entry"
+    ],
+    [
+      5.219999999999933,
+      "capture_begin"
+    ],
+    [
+      5.709999999999923,
+      "local_hold"
+    ]
+  ],
+  "prepare_failed": false,
+  "rmse": [
+    0.000563638434955586,
+    0.012792119431940507,
+    2.3085290877723624e-05
+  ],
+  "mean": [
+    11.999436361337906,
+    -9.987207881227164,
+    0.5999769173576948
+  ],
+  "stable_phase": true,
+  "min_speed": 8.333297322222064,
+  "min_beta_deg": -9.987248720242608,
+  "max_rear_kappa": 0.3515410387009108,
+  "max_torque": 1243.379137247144,
+  "saturation_fraction": 0.0,
+  "max_saturation_seconds": 0.0
+}

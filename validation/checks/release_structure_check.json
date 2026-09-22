@@ -1,0 +1,1 @@
+{"control":[0.01,0],"force":[0.01,0],"wheel":[0.01,0],"steering":[0.0005,0],"local_goto_unique":true,"reopened":true,"callback":"run(fullfile(fileparts(get_param(bdroot,'FileName')),'a001_new_Design_LQR_Controller.m'));"}

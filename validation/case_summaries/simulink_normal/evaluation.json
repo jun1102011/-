@@ -1,0 +1,21 @@
+{
+  "end": 17.0,
+  "last5_mean": [
+    10.50256975446478,
+    0.005898496239946707,
+    0.0003076063490919679
+  ],
+  "max_torque": 531.610189020804,
+  "allocation_sum_max_error_N": 1.000444171950221e-11,
+  "warnings": [
+    "Function F_REB_STOP_TABLE(1,1) extrapolated (out of range HIGH) for X = 0 mm at T = 0",
+    "Function F_JNC_STOP_TABLE(1,1) extrapolated (out of range LOW) for X = 0 mm at T = 0",
+    "Function F_REB_STOP_TABLE(1,2) extrapolated (out of range HIGH) for X = 0 mm at T = 0",
+    "Function F_JNC_STOP_TABLE(1,2) extrapolated (out of range LOW) for X = 0 mm at T = 0",
+    "Function F_REB_STOP_TABLE(2,1) extrapolated (out of range HIGH) for X = 0 mm at T = 0",
+    "Function F_JNC_STOP_TABLE(2,1) extrapolated (out of range LOW) for X = 0 mm at T = 0",
+    "Function F_REB_STOP_TABLE(2,2) extrapolated (out of range HIGH) for X = 0 mm at T = 0",
+    "Function F_JNC_STOP_TABLE(2,2) extrapolated (out of range LOW) for X = 0 mm at T = 0",
+    "Function MENGINE_CARPET extrapolated (out of range LOW) for X = 0 rpm at T = 0"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "published_hashes_still_match": true,
+  "sim_par_unchanged": true,
+  "no_active_pf_pr": true,
+  "normal_entry_disabled": true,
+  "formal_30s_entry_passed": true,
+  "interface_early_0_1deg_gate_passed": false,
+  "readme": "C:\\Users\\Public\\Documents\\CarSim2020.0_Data\\Extensions\\Simulink\\00carsim_workspace\\009\\stabilizer_bar\\先看这里_实际轮荷与直行入漂.md",
+  "readme_sha256": "c362123ccfd0bf728c8746995f3a73ba10b335a465fbf7f4ed77c6cfe46743d9",
+  "capture_trials": 14,
+  "note": "保留转向严格精度未通过、弹簧外推和50m尚无Simulink全程复测的边界。"
+}

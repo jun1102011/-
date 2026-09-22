@@ -1,0 +1,5 @@
+# Keep archived validation and source bytes unchanged on all platforms.
+* -text
+*.slx binary
+*.mat binary
+*.png binary

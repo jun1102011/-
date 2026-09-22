@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "scope": "状态机合成边界测试，未代表CarSim起漂通过",
+  "events": [
+    [
+      1.0000000000000007,
+      "start_entry"
+    ],
+    [
+      1.300000000000001,
+      "capture_begin"
+    ],
+    [
+      1.7900000000000014,
+      "local_hold"
+    ],
+    [
+      1.8100000000000014,
+      "capture_rollback"
+    ],
+    [
+      2.299999999999995,
+      "transition_resumed"
+    ]
+  ]
+}

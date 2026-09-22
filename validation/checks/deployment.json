@@ -1,0 +1,15 @@
+{
+  "before": {
+    "C:\\Users\\Public\\Documents\\CarSim2020.0_Data\\Extensions\\Simulink\\00carsim_workspace\\009\\stabilizer_bar\\stabilizer_bar_repair.slx": "f41e157cc1b757cac20bfcdc5b9ff56430cb9a62a8509ed03ea1eee9a064029a",
+    "C:\\Users\\Public\\Documents\\CarSim2020.0_Data\\Extensions\\Simulink\\00carsim_workspace\\009\\stabilizer_bar\\a001_new_Design_LQR_Controller.m": "3347f817a3ccffdbbbae2d2065ad5069461158f87685b213ca13861c6b3b4466",
+    "C:\\Users\\Public\\Documents\\CarSim2020.0_Data\\Extensions\\Simulink\\00carsim_workspace\\009\\stabilizer_bar\\repair_support\\repair_path_profile.m": "d4008b10fee8722a6fa20aa4a05e58f7c4e342f101f45db972ae77deca3b4a66",
+    "C:\\Users\\Public\\Documents\\CarSim2020.0_Data\\Extensions\\Simulink\\00carsim_workspace\\009\\stabilizer_bar\\repair_support\\repair_build_geometry.m": "855c0c10b69e1a17c533f072a8bcc935e196964bc951410c3f3b3177b544311e",
+    "C:\\Users\\Public\\Documents\\CarSim2020.0_Data\\Extensions\\Simulink\\00carsim_workspace\\009\\simfile.sim": "4297390b9f68c4c4ff9b0497def3d0affa70713a016cc5f1748dfa6c213c7d14",
+    "C:\\Users\\Public\\Documents\\CarSim2020.0_Data\\Results\\Run_54cb954f-d91a-4b4d-b546-9ec1dbf045e8\\Run_all.par": "31889789adfa370a49b43523d5c6d43144469a85767a64ab199adf7da2067839"
+  },
+  "published": {
+    "C:\\Users\\Public\\Documents\\CarSim2020.0_Data\\Extensions\\Simulink\\00carsim_workspace\\009\\stabilizer_bar\\stabilizer_bar_repair.slx": "ac090d2c3d49ba79087b12d28702af4d31952535b1e94b0f50c1ef71e54e0a8f",
+    "C:\\Users\\Public\\Documents\\CarSim2020.0_Data\\Extensions\\Simulink\\00carsim_workspace\\009\\stabilizer_bar\\a001_new_Design_LQR_Controller.m": "36ccd6698a7f43650ac25dfa74d57fe9d9c831189e56001da85767d1c843a95f",
+    "C:\\Users\\Public\\Documents\\CarSim2020.0_Data\\Extensions\\Simulink\\00carsim_workspace\\009\\stabilizer_bar\\repair_support\\repair_entry_bank.json": "1645cd7d839d7f81693a92feb27c7992478d7de93f5ccd5de01a31b1524a161e"
+  }
+}
